@@ -15,24 +15,36 @@
             }
         }
     </style>
-<script type="text/javascript" src="http://translate.google.com/translate_a/element.js"></script>
-    <script type="text/javascript"> 
+<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
 
-function googleTranslateElementInit() { 
-  new google.translate.TranslateElement(
-  {
-      pageLanguage: 'ru',
-      layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT,
-      autoDisplay: true
-  },
-  'google_translate_element'
-  ); 
-}
+<style>
+#google_translate_element{width:300px;float:right;text-align:right;display:block}
+.goog-te-banner-frame.skiptranslate { display: none !important;} 
+body { top: 0px !important; }
+#goog-gt-tt{display: none !important; top: 0px !important; } 
+.goog-tooltip skiptranslate{display: none !important; top: 0px !important; } 
+.activity-root { display: hide !important;} 
+.status-message { display: hide !important;}
+.started-activity-container { display: hide !important;}
+#google_translate_element{ display: none !important;}
+</style>
+<div id="google_translate_element"></div>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-googleTranslateElementInit();
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({  
 
+      includedLanguages: 'fr',
+      layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+
+    var lang = 'French';
+    var $frame = $('.goog-te-menu-frame:first'); 
+console.log($frame.contents().find('.goog-te-menu2-item span.text:contains('+lang+')').click());
+
+  }
 </script>
-<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script src="/assets/l.js.download" async=""></script><link href="assets/client_default.css" type="text/css" rel="stylesheet"></head>
 <body class="custom-cursor" cz-shortcut-listen="true" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
     <!-- class="custom-cursor" -->
