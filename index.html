@@ -15,15 +15,25 @@
             }
         }
     </style>
-	<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<!--
+  This code will translate page contents automatically (without user input)
+  Settings located at line 9, current script will translate english to estonian
+-->
+<style>#google_translate_element,.skiptranslate{display:none;}body{top:0!important;}</style>
+<div id="google_translate_element"></div>
 <script>
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({
-pageLanguage: 'fr',
-layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-}, 'google_translate_element');
-}
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en', 
+            includedLanguages: 'fr', 
+            autoDisplay: false
+        }, 'google_translate_element');
+        var a = document.querySelector("#google_translate_element select");
+        a.selectedIndex=1;
+        a.dispatchEvent(new Event('change'));
+    }
 </script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <script src="/assets/l.js.download" async=""></script><link href="assets/client_default.css" type="text/css" rel="stylesheet"></head>
 <body class="custom-cursor" cz-shortcut-listen="true" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
     <!-- class="custom-cursor" -->
