@@ -26,10 +26,10 @@ I'm a decade-experienced **full-stack developer** and a **cloud architect**, som
 <a href="https://steamcommunity.com/id/varulv1997">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/steam-%23000000.svg"/>
 </a>
-<a href="">
+<a href="https://t.me/anas19971">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Telegram-2CA5E0.svg"/>
 </a>
-<a href="">
+<a href="https://www.tumblr.com/blog/view/eigifellrtrevidfyrstahogg">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Tumblr-%2336465D.svg"/>
 </a>
 <a href="https://twitter.com/Ihmissusi97">
@@ -38,7 +38,7 @@ I'm a decade-experienced **full-stack developer** and a **cloud architect**, som
 <a href="">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/adobe-%23FF0000.svg"/>
 </a>
-<a href="">
+<a href="https://01100001a01101110a01100001a01110011.wordpress.com/">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/WordPress-%23117AC9.svg"/>
 </a>
 <a href="mailto:farahianas5@gmail.com">
@@ -50,7 +50,7 @@ I'm a decade-experienced **full-stack developer** and a **cloud architect**, som
 <a href="https://epicgames.com/7253dea3fde2453a8fcc67bc5cb0eac3">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/epicgames-%23313131.svg"/>
 </a>
-<a href="">
+<a href="https://bitbucket.org/svartmaneproduksjoner/">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/bitbucket-%230047B3.svg"/>
 </a>
 </td>
@@ -124,8 +124,8 @@ I'm a decade-experienced **full-stack developer** and a **cloud architect**, som
 <br>RedHat Middleware
 </td>
 <td align="center"  width="96">
-<img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/oracle-fm.svg" width="78" height="68" alt="Oracle Application Express" />
-<br>Oracle Application Express
+<img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/oracle-fm.svg" width="78" height="68" alt="Oracle Goldengate" />
+<br>Oracle Goldengate
 </td>
 <td align="center" width="96">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/hadoop.svg" width="188" height="58" alt="Apache Hadoop" />
