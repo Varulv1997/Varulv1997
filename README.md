@@ -4,7 +4,8 @@ I'm a decade-experienced **full-stack developer** and a **cloud architect**, som
 <table>
 <tr>
 <td align="center" width="60%">
-<img src="https://anasgamrani.vercel.app/api?username=Varulv1997&theme=jolly&bg_color=221A2F&count_private=true&title_color=E81248&include_all_commits&show_icons=true"</img>     
+<img src="https://anasgamrani.vercel.app/api?username=Varulv1997&theme=jolly&bg_color=221A2F&count_private=true&title_color=E81248&include_all_commits&show_icons=true"</img> 
+<img src="https://visitor-badge.glitch.me/badge?page_id=Varulv1997.Varulv1997" alt="visitors">
 </td>
 <td align="left">
 <h2>Where to find me <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/plsdontkillme.gif" width="58" height="38"/></h2>
